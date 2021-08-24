@@ -12,3 +12,10 @@ poetry install  # installes packages from dependencies section in current workin
 poetry run  # runs the script
 
 poetry build # builds the wheel package
+
+
+
+
+youtube link :
+
+https://youtu.be/eIz_pBFCbGc
